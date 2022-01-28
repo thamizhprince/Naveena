@@ -1,0 +1,6 @@
+D:\Naveena\Sample\Sample\bin\Sample.dll.config
+D:\Naveena\Sample\Sample\bin\Sample.dll
+D:\Naveena\Sample\Sample\bin\Sample.pdb
+D:\Naveena\Sample\Sample\obj\Debug\Sample.dll
+D:\Naveena\Sample\Sample\obj\Debug\Sample.pdb
+D:\Naveena\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
